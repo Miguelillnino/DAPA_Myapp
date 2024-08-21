@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
                 tvGuardaDatos.setVisibility(View.VISIBLE);
 
-
+                System.out.println("");
                 txtFront.setText("Nuetras Alma mater "+ escuela +" le da la más cordial bienvenido colega " +nombre+
                         " correspondiente a la carrera de "+carrera+" en la materia de " +materia);
             }
